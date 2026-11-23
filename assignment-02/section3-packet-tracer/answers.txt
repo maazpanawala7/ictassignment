@@ -1,0 +1,10 @@
+1. What is a computer network? Purpose in simple words:
+A computer network is two or more devices (like PCs, phones, servers, or printers) connected together by cables or Wi-Fi. Its purpose is to let devices talk to each other, share files, and share things like internet access and printers.
+
+2. Three types of networks (by area):
+- LAN: Covers a small area like one room, house, or office with fast speeds.
+- MAN: Covers a city or big campus by connecting LANs together.
+- WAN: Covers huge areas like countries or continents (the Internet is a WAN).
+
+3. Five network topologies:
+See network_topologies.png for the labeled diagrams (Bus, Star, Ring, Mesh, Hybrid).
